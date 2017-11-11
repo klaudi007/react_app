@@ -6,5 +6,7 @@ You can test this app simply starting embadded HTTP server.
 
 { http-server start }
 
-```npm install http-server -g
-   http-server```
+```
+npm install http-server -g
+http-server
+```
